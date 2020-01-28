@@ -4,11 +4,11 @@ variable "region"{
 }
 variable "access"{
 	type = "string"
-	default = "AKIAJFTT6K7T7IIBM6MQ"
+	default = ""
 }
 variable  "secret"
 	type ="string"
-	default = "3JECMKdeoFBUXpxhEYQkr9tWIrmt9ptlrQE0brn6"
+	default = ""
 }
 variable "vpc-cidr"{
 	type = "string"
